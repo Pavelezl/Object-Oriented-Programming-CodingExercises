@@ -5,7 +5,7 @@ Here you will find all the exercises that have been completed for the subject [O
 - First steps in java
   - Class 1: Java Syntax, Variables, Data Types, Operators.
   - Class 2: Scanner, Bucles.
-  - [Class3](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9872777/Ejercicio.profesor.3.docx.pdf) :reviewing last week's topics: Scanner, Data Types, Operators. 
+  - [Class 3](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9872777/Ejercicio.profesor.3.docx.pdf): reviewing last week's topics: Scanner, Data Types, Operators. 
 
 # Classwork
 - First steps in java
