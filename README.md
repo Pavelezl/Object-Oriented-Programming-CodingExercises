@@ -21,4 +21,4 @@ Here you will find all the exercises that have been completed for the subject [O
   
 - Objects and UML
   - [Classwork 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873961/Ejercicio.Mesa.de.trabajo.C5.pdf): Videogame user who can level up and also increase his score
-
+  - [Classwork 6](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874040/Ejercicio.para.mesa.de.trabajo.-.Clase.6.docx.1.pdf): Programming an institution that adopts dogs. The objective is to know if a dog has the capacity to be adopted and if there is a possibility that the dog could be lost.
