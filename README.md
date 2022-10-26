@@ -11,7 +11,11 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Class 4](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873821/Ejercicios.para.mesa.de.trabajo.-.Clase.4.docx.pdf): Intro to Objects and UML. 
   - [Class 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873821/Ejercicios.para.mesa.de.trabajo.-.Clase.4.docx.pdf): Continue with the past exercise, we are creating a simple bank account, which can deposit and withdraw money.
   - [Class 6](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874008/Ejercicio.Impresora.Alt.docx.1.pdf): Programming a printer.
+  
+- Relationships Among Classes
   - Class 7: Simulating a user, a dog walker, and dogs.
+  - [Class 8](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874502/Ejercicio.Herencia.Profe.C8.pdf): Inheritance exercise in java done in UML.
+  - [Class 9](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874507/Ejercicio.integrador.clase.9.pdf): Inheritance exercise in java done in UML.
   
 
 # Classwork
