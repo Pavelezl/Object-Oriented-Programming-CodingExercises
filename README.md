@@ -7,8 +7,9 @@ Here you will find all the exercises that have been completed for the subject [O
   - Class 2: Scanner, Bucles.
   - [Class 3](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9872777/Ejercicio.profesor.3.docx.pdf): reviewing last week's topics: Scanner, Data Types, Operators. 
   
-- Objets and UML
+- Objects and UML
   - [Class 4](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873821/Ejercicios.para.mesa.de.trabajo.-.Clase.4.docx.pdf): Intro to Objects and UML. 
+  - [Class 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873821/Ejercicios.para.mesa.de.trabajo.-.Clase.4.docx.pdf): Continue with the past exercise, we are creating a simple bank account, which can deposit and withdraw money.
 
 # Classwork
 - First steps in java
