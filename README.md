@@ -4,6 +4,7 @@ Here you will find all the exercises that have been completed for the subject [O
 # Classes
 - First steps in java
   - Class 1: Java Syntax, Variables, Data Types, Operators.
+  - Class 2: Scanner, Bucles.
 
 # Classwork
 - First steps in java
