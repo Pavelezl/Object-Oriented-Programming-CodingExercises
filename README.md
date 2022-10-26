@@ -14,8 +14,8 @@ Here you will find all the exercises that have been completed for the subject [O
   
 - Relationships Among Classes
   - Class 7: Simulating a user, a dog walker, and dogs.
-  - [Class 8](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874502/Ejercicio.Herencia.Profe.C8.pdf): Inheritance exercise in java done in UML.
-  - [Class 9](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874507/Ejercicio.integrador.clase.9.pdf): Inheritance exercise in java done in UML.
+  - [Class 8](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874502/Ejercicio.Herencia.Profe.C8.pdf): Inheritance exercise done in UML.
+  - [Class 9](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874507/Ejercicio.integrador.clase.9.pdf): Inheritance exercise done in UML.
   
 
 # Classwork
