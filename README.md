@@ -26,7 +26,7 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Class 13](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9881340/Ejercicio.para.Alumnos.docx.pdf): Continuing with the exercise done in class 12, we now add an interface.
 
 - Collections in Java 
-  - [Class 16]( ): Collections exercise on a soccer team and its injured
+  - [Class 16](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9883083/Copia.de.Ejercicio.Colecciones.Profesor.docx.pdf): Collections exercise on a soccer team and its injured
   
 
 # Classwork
