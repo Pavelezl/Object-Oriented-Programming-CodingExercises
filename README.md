@@ -12,7 +12,7 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Class 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873821/Ejercicios.para.mesa.de.trabajo.-.Clase.4.docx.pdf): Continue with the past exercise, we are creating a simple bank account, which can deposit and withdraw money.
   - [Class 6](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874008/Ejercicio.Impresora.Alt.docx.1.pdf): Programming a printer.
   
-- Relationships Among Classes
+- Relationships Among Classes and Inheritance
   - Class 7: Simulating a user, a dog walker, and dogs.
   - [Class 8](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874502/Ejercicio.Herencia.Profe.C8.pdf): Inheritance exercise done in UML.
   - [Class 9](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874507/Ejercicio.integrador.clase.9.pdf): Inheritance exercise done in UML.
@@ -20,6 +20,7 @@ Here you will find all the exercises that have been completed for the subject [O
 
 - Abstract Methods and Classes
   - Class 11: Exercise that explains abstract classes and their methods
+  - [Class 12]( ): Java Exercise that creates a simulation of several bank accounts
   
 
 # Classwork
@@ -32,7 +33,8 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Classwork 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873961/Ejercicio.Mesa.de.trabajo.C5.pdf): Videogame user who can level up and also increase his score.
   - [Classwork 6](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874040/Ejercicio.para.mesa.de.trabajo.-.Clase.6.docx.1.pdf): Programming an institution that adopts dogs. The objective is to know if a dog has the capacity to be adopted and if there is a possibility that the dog could be lost.
 
-- Relationships Among Classes
+- Relationships Among Classes and Inheritance
   - [Classwork 10](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9879927/Ejercicio.Mesas.Clase.10.pdf): Exercise to practice inheritance in a practical case of a small video game
+  - [Classwork 12]( ): We add to the exercise of class 12 another type of bank account
 
   
