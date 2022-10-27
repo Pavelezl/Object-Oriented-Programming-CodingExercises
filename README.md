@@ -20,7 +20,7 @@ Here you will find all the exercises that have been completed for the subject [O
 
 - Abstract Methods and Classes
   - Class 11: Exercise that explains abstract classes and their methods
-  - [Class 12]( ): Java Exercise that creates a simulation of several bank accounts
+  - [Class 12](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9881340/Ejercicio.para.Alumnos.docx.pdf): Java Exercise that creates a simulation of several bank accounts
   
 
 # Classwork
@@ -35,6 +35,5 @@ Here you will find all the exercises that have been completed for the subject [O
 
 - Relationships Among Classes and Inheritance
   - [Classwork 10](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9879927/Ejercicio.Mesas.Clase.10.pdf): Exercise to practice inheritance in a practical case of a small video game
-  - [Classwork 12]( ): We add to the exercise of class 12 another type of bank account
+  - [Classwork 12](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9881340/Ejercicio.para.Alumnos.docx.pdf): We add to the exercise of class 12 another type of bank account
 
-  
