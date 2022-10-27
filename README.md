@@ -48,3 +48,6 @@ Here you will find all the exercises that have been completed for the subject [O
    - [First Test](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9882935/Copia.de.Ejercicio.Tipo.Parcial.Alumnos.docx.pdf): First test of Object Oriented Programming class. 
    - [Second Test](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9882930/Evaluacion.Parcial.Tema.1.1.docx.pdf): Second test of Object Oriented Programming class. 
 
+- Collections in Java 
+  - [Class 16]( ): Collections exercise of collections of a port.
+
