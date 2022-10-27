@@ -22,8 +22,11 @@ Here you will find all the exercises that have been completed for the subject [O
   - Class 11: Exercise that explains abstract classes and their methods
   - [Class 12](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9881340/Ejercicio.para.Alumnos.docx.pdf): Java Exercise that creates a simulation of several bank accounts
 
-- Interfaces
+- Interfaces and Polymorphism in Java
   - [Class 13](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9881340/Ejercicio.para.Alumnos.docx.pdf): Continuing with the exercise done in class 12, we now add an interface.
+
+- Collections in Java 
+  - [Class 16]( ): Collections exercise on a soccer team and its injured
   
 
 # Classwork
