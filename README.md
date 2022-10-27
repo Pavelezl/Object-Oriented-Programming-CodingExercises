@@ -16,6 +16,7 @@ Here you will find all the exercises that have been completed for the subject [O
   - Class 7: Simulating a user, a dog walker, and dogs.
   - [Class 8](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874502/Ejercicio.Herencia.Profe.C8.pdf): Inheritance exercise done in UML.
   - [Class 9](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874507/Ejercicio.integrador.clase.9.pdf): Inheritance exercise done in UML.
+  - [Class 10](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9879912/Ejercicio.Profesor.Clase.10.pdf): Inheritance exercise done in JAVA.
   
 
 # Classwork
@@ -27,3 +28,8 @@ Here you will find all the exercises that have been completed for the subject [O
 - Objects and UML
   - [Classwork 5](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9873961/Ejercicio.Mesa.de.trabajo.C5.pdf): Videogame user who can level up and also increase his score.
   - [Classwork 6](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9874040/Ejercicio.para.mesa.de.trabajo.-.Clase.6.docx.1.pdf): Programming an institution that adopts dogs. The objective is to know if a dog has the capacity to be adopted and if there is a possibility that the dog could be lost.
+
+- Relationships Among Classes
+  - [Classwork 10](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9879927/Ejercicio.Mesas.Clase.10.pdf): Exercise to practice inheritance in a practical case of a small video game
+
+  
