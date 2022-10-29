@@ -27,6 +27,12 @@ Here you will find all the exercises that have been completed for the subject [O
 
 - Collections in Java 
   - [Class 16](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9883083/Copia.de.Ejercicio.Colecciones.Profesor.docx.pdf): Collections exercise on a soccer team and its injured
+
+- Exception Handling in Java
+  - [Class 17]( ): 
+
+- Design Patterns In Java: Singleton, Factory And Builder 
+  - [Class 19]( ): 
   
 
 # Classwork
@@ -49,5 +55,7 @@ Here you will find all the exercises that have been completed for the subject [O
    - [Second Test](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9882930/Evaluacion.Parcial.Tema.1.1.docx.pdf): Second test of Object Oriented Programming class. 
 
 - Collections in Java 
-  - [Class 16]( ): Collections exercise of collections of a port.
+  - [Classwork 16]( ): Collections exercise of collections of a port.
+
+
 
