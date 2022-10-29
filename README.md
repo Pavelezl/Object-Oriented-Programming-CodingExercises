@@ -55,7 +55,6 @@ Here you will find all the exercises that have been completed for the subject [O
    - [Second Test](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9882930/Evaluacion.Parcial.Tema.1.1.docx.pdf): Second test of Object Oriented Programming class. 
 
 - Collections in Java 
-  - [Classwork 16]( ): Collections exercise of collections of a port.
-
+  - [Class 16](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9883224/Ejercicio.Colecciones.Alumnos.docx.pdf): Collections exercise of a marine port.
 
 
