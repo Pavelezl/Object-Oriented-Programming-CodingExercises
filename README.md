@@ -32,7 +32,7 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Class 17]( ): 
 
 - Design Patterns In Java: Singleton, Factory And Builder: 
-  - [Class 19]( ): 
+  - [Class 19]( ): Exercise of company and products, where we have to calculate the space needed for each of its products. Using the Singelton and the Factory
   
 
 # Classwork
