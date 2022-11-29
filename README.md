@@ -58,6 +58,5 @@ Here you will find all the exercises that have been completed for the subject [O
   - [Classwork 16](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9883224/Ejercicio.Colecciones.Alumnos.docx.pdf): Collections exercise of a marine port.
 
 - Design Patterns in Java
-  - [Classwork 19]( ): Exercise of company and employees, where we have to calculate the salary of each of their contracts depending on the number of days of work. Using Singelton and Factory
-
+  - [Classwork 19](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/10117040/Ejercicio.junto.con.Docente.docx.pdf): Exercise of company and employees, where we have to calculate the salary of each of their contracts depending on the number of days of work. Using Singelton and Factory
 
