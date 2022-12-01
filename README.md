@@ -31,11 +31,12 @@ Here you will find all the exercises that have been completed for the subject [O
 - Exception Handling in Java:
   - [Class 17]( ): 
 
-- Design Patterns In Java: Singleton, Factory And Builder: 
+- Design Patterns In Java: Singleton, Factory: 
   - [Class 19]( ): Exercise of company and products, where we have to calculate the space needed for each of its products. Using the Singelton and the Factory
 
-- Design Patterns in Java: State Pattern
+- Design Patterns in Java: 
   - [Class 20](): Exercise done in class where we have to program a tamagochi that changes states. In this exercise we practice the state pattern
+  - [Class 22](): Exercise done in class where we have to program a shopping cart and we must add products, we can also add combos of products to the cart.  In this exercise we practice the composite pattern.
   
 
 # Classwork
@@ -60,6 +61,6 @@ Here you will find all the exercises that have been completed for the subject [O
 - Collections in Java:
   - [Classwork 16](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/9883224/Ejercicio.Colecciones.Alumnos.docx.pdf): Collections exercise of a marine port.
 
-- Design Patterns in Java
+- Design Patterns In Java: Singleton, Factory: 
   - [Classwork 19](https://github.com/Pavelezl/Object-Oriented-Programming-CodingExercises/files/10117040/Ejercicio.junto.con.Docente.docx.pdf): Exercise of company and employees, where we have to calculate the salary of each of their contracts depending on the number of days of work. Using Singelton and Factory
 
